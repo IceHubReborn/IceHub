@@ -1,8 +1,7 @@
 return {
 	_credits = {
 		_hexr = "xyz.hexr",
-		_xjfs = "",
-		_icy = "",
+		_jfs = "xyz.jfs",
 	},
 
 	_event_connection = {
